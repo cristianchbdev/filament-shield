@@ -32,8 +32,7 @@
         "php": "^8.1",
         "filament/filament": "^3.2",
         "spatie/laravel-package-tools": "^1.9",
-        "spatie/laravel-permission": "^6.0",
-        "cristianchbdev/filament-shield": "dev-3.x as 3.0.x-dev"
+        "spatie/laravel-permission": "^6.0"
     },
     "require-dev": {
         "larastan/larastan": "^2.0",
