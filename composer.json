@@ -33,7 +33,7 @@
         "filament/filament": "^3.2",
         "spatie/laravel-package-tools": "^1.9",
         "spatie/laravel-permission": "^6.0",
-        "bezhansalleh/filament-shield": "dev-main"
+        "bezhansalleh/filament-shield": "^3.0"
     },
     "require-dev": {
         "larastan/larastan": "^2.0",
