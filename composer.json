@@ -50,13 +50,13 @@
     },
     "autoload": {
         "psr-4": {
-            "cristianchbdev\\FilamentShield\\": "src",
-            "cristianchbdev\\FilamentShield\\Database\\Factories\\": "database/factories"
+            "BezhanSalleh\\FilamentShield\\": "src",
+            "BezhanSalleh\\FilamentShield\\Database\\Factories\\": "database/factories"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "cristianchbdev\\FilamentShield\\Tests\\": "tests"
+            "BezhanSalleh\\FilamentShield\\Tests\\": "tests"
         }
     },
     "scripts": {
